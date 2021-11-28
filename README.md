@@ -2,6 +2,9 @@
 
 I am a Masters qualified and accomplished technology leader and Cloud Architect supported by a raft of professional certification and 15 years of diverse technical experience from start-ups to a major corporation.
 My experience allows me to develop and implement innovative solutions that support the consistent achievement of personal and organizational objectives.
+I also lead and develop high-performing multi-functional teams, establishing actionable solutions, adding value, driving vision, achieving operational goals, and maximizing revenue.
+Key expertise includes: Cloud Architect; DevOps; FinOps; Modern Services; Agile; Office 365; Enterprise Architect; Ethical Hacking; IoT; Open Source; Retail Technologies; Robotics; Digital Forensics; Microservices Cloud Orchestration; Cloud Operations and Blockchain.
+
 <!--
 **AnasRaqi/AnasRaqi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
