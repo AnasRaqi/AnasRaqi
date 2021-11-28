@@ -1,5 +1,7 @@
 ### About Me 
 
+I am a Masters qualified and accomplished technology leader and Cloud Architect supported by a raft of professional certification and 15 years of diverse technical experience from start-ups to a major corporation.
+My experience allows me to develop and implement innovative solutions that support the consistent achievement of personal and organizational objectives.
 <!--
 **AnasRaqi/AnasRaqi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
